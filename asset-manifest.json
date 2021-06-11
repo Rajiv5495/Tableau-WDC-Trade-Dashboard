@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Tableau-WDC-Trade-Dashboard/static/js/main.f19d456b.chunk.js",
+    "main.js.map": "/Tableau-WDC-Trade-Dashboard/static/js/main.f19d456b.chunk.js.map",
+    "runtime-main.js": "/Tableau-WDC-Trade-Dashboard/static/js/runtime-main.ed4defcd.js",
+    "runtime-main.js.map": "/Tableau-WDC-Trade-Dashboard/static/js/runtime-main.ed4defcd.js.map",
+    "static/js/2.e757d919.chunk.js": "/Tableau-WDC-Trade-Dashboard/static/js/2.e757d919.chunk.js",
+    "static/js/2.e757d919.chunk.js.map": "/Tableau-WDC-Trade-Dashboard/static/js/2.e757d919.chunk.js.map",
+    "index.html": "/Tableau-WDC-Trade-Dashboard/index.html",
+    "static/js/2.e757d919.chunk.js.LICENSE.txt": "/Tableau-WDC-Trade-Dashboard/static/js/2.e757d919.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed4defcd.js",
+    "static/js/2.e757d919.chunk.js",
+    "static/js/main.f19d456b.chunk.js"
+  ]
+}
